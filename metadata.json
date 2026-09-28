@@ -1,0 +1,6 @@
+{
+  "name": "HISOBCHI - Business Management SaaS",
+  "description": "Modern all-in-one business management and accounting platform for small businesses, retail shops, cafes, and services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
